@@ -1,5 +1,5 @@
 title = "Jonathan Kertland"
-baseURL = "https://kertland.us/"
+baseURL = "https://www.kertland.us/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
