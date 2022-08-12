@@ -1,0 +1,26 @@
+[
+	{
+		"name":"Azure Administrator",
+		"description": "Microsoft Certified: Azure Administrator Associate",
+		"badge":"https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png",
+		"proof":"https://www.credly.com/badges/9e924dbb-15fa-4158-8cec-f328d5d92823/public_url"
+	},
+	{
+		"name":"Azure Fundamentals",
+		"description": "Microsoft Certified: Azure Fundamentals",
+		"badge":"https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
+		"proof":"https://www.credly.com/badges/a1f4a616-db12-4472-9120-705a0243c2db/public_url"
+	},
+	{
+		"name":"CI/CD Specialist",
+		"description": "GitLab CI/CD Specialist",
+		"badge":"https://images.credly.com/size/340x340/images/b751a976-d02e-4698-bbdd-1b0d0af54172/image.png",
+		"proof":"https://www.credly.com/badges/0de5bed5-0218-492f-a8ea-9a7277f3f376/public_url"		
+	},
+	{
+		"name":"Git Associate",
+		"description": "GitLab Certified Git Associate",
+		"badge":"https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png",
+		"proof":"https://www.credly.com/badges/3b00c491-e7a3-48f8-b9fe-a4fc2b5b7156/public_url"	
+	}
+]

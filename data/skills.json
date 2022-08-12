@@ -1,0 +1,86 @@
+[
+  {
+      "grouping":"Technologies and Infrastructure",
+      "skills":[ 
+        "Terraform"
+        ,"SaltStack"
+        ,"Kubernetes"
+        ,"GitLab CI/CD"
+        ,"Azure Kubernetes Service (AKS)"
+        ,"Serverless Compute (Azure Functions & AWS Lambda)"
+        ,"Azure App Services"
+        ,"Azure Storage Accounts"
+        ,"IIS & NGINX"
+        ,"IP Networking"
+        ,"DNS"
+        ,"Firewalls"
+        ,"Load Balancing"
+        ,"Microservices"
+        ,"RESTful APIs"
+        ,"SaaS/PaaS/IaaS"
+      ]
+  },{
+      "grouping":"Languages",
+      "skills":[ 
+        "T-SQL"
+        ,"Oracle SQL"
+        ,"C#"
+        ,"PHP"
+        ,"JavaScript"
+        ,"Python"
+        ,"PowerShell "
+        ,"Bash"
+        ,"YAML"
+        ,"XML "
+        ,"JSON"
+        ,"HTML"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ 
+        "GitLab"
+        ,"AWS Control Tower"
+        ,"Azure Tenant"
+        ,"Hashicorp Vault"
+        ,"Microsoft Team Foundation Server (TFS)"
+        ,"Docker"
+        ,"GitKraken"
+        ,"SonarQube"
+        ,"Sentry"
+        ,"Canonical Landscape"
+        ,"Keycloak"
+        ,"GitKraken"
+        ,"Matomo"
+        ,"M365 Tenant"
+        ,"Control-M"
+        ,"Microstrategy"
+        ,"Microsoft SharePoint"
+        ,"Tasktop"
+        ,"Microsoft SSRS"
+        ,"Workfront"
+        ,"Windows and Linux server administration"
+      ]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        "Microsoft SQL Server"
+        ,"Oracle"
+        ,"MongoDB"
+        ,"SQLite"
+      ]
+  },
+  {
+    "grouping":"Soft Skills",
+      "skills":[
+        "Agile leadership"
+        ,"Presentations and public speaking"
+        ,"Developing and performing training"
+        ,"Microsoft Office (Excel and PowerPoint)"
+        ,"ServiceNow platform and ITIL processes"
+        ,"Emotional intelligence"
+        ,"Project management"
+        ,"Mentorship and people management"
+      ]
+  }
+]
