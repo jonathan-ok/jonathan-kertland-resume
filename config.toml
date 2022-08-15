@@ -32,9 +32,9 @@ showSkills = true
 link = "https://www.linkedin.com/in/jonathan-kertland/"
 name = "LinkedIn"
 
-[[params.handles]]
-link = "https://github.com/jonathan-ok"
-name = "GitHub"
+#[[params.handles]]
+#link = "https://github.com/jonathan-ok"
+#name = "GitHub"
 
 [outputs]
 home = ["HTML", "JSON"]
