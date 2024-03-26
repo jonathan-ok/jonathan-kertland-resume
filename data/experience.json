@@ -1,9 +1,15 @@
 [
     {
+        "role":"Senior Manager, DevOps and Enterprise Development ",
+        "company":"Select Medical",
+        "summary":"- Manages both the DevOps team and the Enterprise Development team for a total of 10 direct reports\n- Mentors colleagues in their career progressions, identifies and  provides growth opportunities to team members \n- Builds strategic roadmaps for several custom developed applications that support multiple stakeholders including HR, Finance, and other teams inside of Information Services\n- Drives standardization and reusability of both code and technologies used in the development and application administration lifecycle \n- Manages vendor relationships for applications the team administers including evaluations of new tools and consolidation of older ones\n- Establishes contracted engagements and oversees lifecycle of the contracts\n- Architects new custom developed applications and builds project plans for implementation\n- All the below responsibilities",
+        "range":"January 2023 - Present"
+    },
+    {
         "role":"Manager, DevOps",
         "company":"Select Medical",
         "summary":"- Founding member and leader of the DevOps team; developed team structure and expectations for team members\n- Works closely with software development, networking, security, and infrastructure teams to better integrate and optimize processes and tooling to increase efficiency by advocating for DevOps practices\n- Established a Cloud Center of Excellence consisting of both a steering committee of executive leadership and a technical scrum team \n- Owns administration and standards for Cloud tenants including Azure, M365, and AWS\n- Guides the team in selecting, purchasing, and administering tools that enable the developers\n- Functioning as the technical lead for the enterprise’s migration to the M365 platform\n- Implemented a Kanban to deliver on requests and project work internal and external to the team",
-        "range":"January 2022 - Present"
+        "range":"January 2022 - January 2023"
     },
     {
         "role":"Software Development Lead",

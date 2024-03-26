@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Hummelstown, PA"
+address = "Harrisburg, PA"
 email = "jonathan@kertland.us"
 favicon = "img/favicon.ico"
 firstName = "Jonathan"

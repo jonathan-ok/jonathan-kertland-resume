@@ -1,5 +1,18 @@
 [
   {
+    "grouping":"Soft Skills",
+      "skills":[
+        "Mentorship and people management"
+        ,"Project management"
+        ,"Agile leadership"
+        ,"Emotional intelligence"
+        ,"Presentations and public speaking"
+        ,"Developing and performing training"
+        ,"Microsoft Office (Visio, Excel and PowerPoint)"
+        ,"ServiceNow platform and ITIL processes"
+      ]
+  },
+  {
       "grouping":"Technologies and Infrastructure",
       "skills":[ 
         "Terraform"
@@ -31,8 +44,10 @@
         ,"PowerShell "
         ,"Bash"
         ,"YAML"
+        ,"Terraform HCL"
         ,"XML "
         ,"JSON"
+        ,"Golang"
         ,"HTML"]
   },
   {
@@ -68,19 +83,6 @@
         ,"Oracle"
         ,"MongoDB"
         ,"SQLite"
-      ]
-  },
-  {
-    "grouping":"Soft Skills",
-      "skills":[
-        "Agile leadership"
-        ,"Presentations and public speaking"
-        ,"Developing and performing training"
-        ,"Microsoft Office (Excel and PowerPoint)"
-        ,"ServiceNow platform and ITIL processes"
-        ,"Emotional intelligence"
-        ,"Project management"
-        ,"Mentorship and people management"
       ]
   }
 ]

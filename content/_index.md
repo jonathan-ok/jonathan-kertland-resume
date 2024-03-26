@@ -9,4 +9,4 @@ outputs:
 - json
 ---
 
-DevOps leader focused on work delivery and developer enablement through process, automation, and technology.
+Technology leader focused on work delivery and developer enablement through process, automation, and technology.
