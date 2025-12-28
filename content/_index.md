@@ -9,4 +9,4 @@ outputs:
 - json
 ---
 
-Technology leader focused on work delivery and developer enablement through process, automation, and technology.
+Leader focused on helping engineers ship quickly, safely, and confidently. Built and scaled DevOps, platform, and engineering productivity capabilities; led multi-disciplinary teams; and partnered across product, infrastructure, and development to improve delivery speed, reliability, and tooling quality.
