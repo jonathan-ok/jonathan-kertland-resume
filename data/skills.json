@@ -16,7 +16,6 @@
       "grouping":"Technologies and Infrastructure",
       "skills":[ 
         "Terraform"
-        ,"SaltStack"
         ,"Kubernetes"
         ,"GitLab CI/CD"
         ,"Azure Kubernetes Service (AKS)"
@@ -61,6 +60,9 @@
         ,"Docker"
         ,"GitKraken"
         ,"SonarQube"
+        ,"Dynatrace"
+        ,"Grafana"
+        ,"Prometheus"
         ,"Sentry"
         ,"Canonical Landscape"
         ,"Keycloak"
